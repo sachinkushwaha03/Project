@@ -1,0 +1,1122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* for pc */
+/* Section One */
+#main {
+  background-color: #990021;
+}
+#yezadi {
+  background-color: #fff;
+}
+#stick {
+  position: sticky;
+  top: 0;
+}
+.gray {
+  background-color: #2f2e2e;
+}
+.bg-img-1 {
+  background-image: url(image/Home-Desktop-Cosmic-Carbon-Banner_1674717693.jpg);
+}
+.bg-img-2 {
+  background-image: url(image/homepage-slider-30-09-22_1664545280.jfif);
+}
+.bg-img-3 {
+  background-image: url(image/homepage-slider-02-1.png);
+}
+.bg-img-4 {
+  background-image: url(image/homepage-42-slider-12-02-21_1613110906.jpeg);
+}
+.carousel-image {
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+/* Section Two */
+.two {
+  height: 70vh;
+}
+.text3 {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+}
+.text4 {
+  padding: 0px 50px;
+  color: #fff;
+  text-align: center;
+  line-height: 28px;
+  height: 90px;
+  overflow: hidden;
+}
+.img15 {
+  width: 100px;
+  margin: 30px 0px;
+}
+.link1 {
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+  padding-left: 230px;
+}
+/* Section Three */
+.img2 {
+  width: 100%;
+  height: 100%;
+  background-color: brown;
+}
+.img3 {
+  width: 100%;
+  height: 100%;
+  background-color: #2f2e2e;
+}
+.img4 {
+  width: 100%;
+  height: 100%;
+  background-color: #d3d3d3;
+}
+.text5 {
+  color: #fff;
+  font-size: 25px;
+}
+.img6 {
+  width: 100%;
+  height: 230px;
+}
+.img7 {
+  width: 100%;
+  height: 230px;
+}
+.text80 {
+  text-transform: uppercase;
+  color: gray;
+  margin-left: 20px;
+}
+.text81 {
+  color: #fff;
+}
+.text82 {
+  color: gray;
+}
+.text83 {
+  color: black;
+}
+/* Section Four */
+#jawarig {
+  width: 100%;
+  height: 70vh;
+  background-color: gray;
+  background-image: url(image/gear-section.jpg);
+  background-size: cover;
+}
+.text6 {
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 10px;
+}
+.text7 {
+  color: #fff;
+  text-align: center;
+  margin-top: 10px;
+}
+.btn1 {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+.btn2 {
+  width: auto;
+  height: inherit;
+  color: white;
+  font-size: 18px;
+  border: 5px solid #fff;
+  font-size: 18px;
+  font-weight: bold;
+}
+/* Section Five */
+.three {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 40px;
+}
+.three_nw {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 40px;
+}
+.text8 {
+  color: #fff;
+  padding-top: 50px;
+}
+.text9 {
+  color: #fff;
+  padding-top: 30px;
+}
+.btn3 {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #fff;
+  background: none;
+  margin-top: 50px;
+  color: #fff;
+}
+.icon3 {
+  padding-left: 20px;
+  color: #fff;
+}
+.text10 {
+  color: #fff;
+  padding-top: 50px;
+}
+.text11 {
+  color: #fff;
+  padding-top: 10px;
+}
+.btn4 {
+  width: 150px;
+  padding: 10px;
+  border: 1px solid #fff;
+  background: none;
+  margin: 10px 0px;
+  color: #fff;
+}
+.btn5 {
+  width: 180px;
+  padding: 10px;
+  border: 1px solid #fff;
+  color: #fff;
+  background: none;
+}
+/* Section Six */
+#kummuniti {
+  background-color: #2f2e2e;
+  background-image: url(/image/kommuniti-bg.jpg);
+  background-size: cover;
+}
+.text13 {
+  color: #fff;
+  padding-top: 50px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.text14 {
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.text14_one {
+  display: none;
+}
+.btn6 {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 250px;
+}
+.btn7 {
+  width: auto;
+  height: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  color: #fff;
+  border: 3px solid #fff;
+  margin-bottom: 100px;
+}
+.text15 {
+  text-align: center;
+  color: #fff;
+}
+/* Section Seven */
+.text16 {
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.img8 {
+  width: 100%;
+  height: 350px;
+  background-color: #242323;
+  margin: 0px 10px;
+}
+.img9 {
+  width: 100%;
+  height: 60%;
+  background-color: #000;
+  background-image: url(/image/2021_JAWA_FORTY-TWO_1613126706.jpg);
+  background-size: cover;
+  cursor: pointer;
+}
+.img19:hover {
+  background-size: 400px;
+  background-position: center;
+}
+.img10 {
+  width: 100%;
+  height: 60%;
+  background-color: #000;
+  background-image: url(image/2021_Jawa_Forty_Two_test_ride_review_1613125871.jpg);
+  background-size: cover;
+  cursor: pointer;
+}
+.img18 {
+  width: 100%;
+  height: 60%;
+  background-color: #000;
+  background-image: url(image/evoindia_2021-02_HERO_JAWA_42_1613125144.jpg);
+  background-size: cover;
+  cursor: pointer;
+}
+.text17 {
+  width: 100%;
+  height: 40%;
+  background-color: #151515;
+}
+.text18 {
+  width: 100%;
+  padding: 10px 0px;
+}
+.fa-share-nodes {
+  color: #fff;
+  margin-left: 80px;
+  font-size: 25px;
+}
+.text19 {
+  color: gray;
+  font-size: 12px;
+  padding-left: 5px;
+}
+.text20 {
+  width: 100%;
+}
+.text21 {
+  font-size: 15px;
+  color: #fff;
+  padding: 0px 10px;
+}
+.text23 {
+  padding-top: 10px;
+  padding-left: 210px;
+  color: #fff;
+}
+.fa-chevron-right {
+  margin: 0px 10px;
+}
+.text24 {
+  text-align: right;
+  color: #fff;
+}
+/* Section Eight */
+.text33 {
+  width: 100%;
+  height: 10%;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 25px 0px;
+  color: #fff;
+}
+.text34 {
+  width: 100%;
+  height: 100vh;
+}
+.text35 {
+  width: 65%;
+  margin: auto;
+}
+.vid1 {
+  width: 100%;
+  height: 100%;
+  border: 1px solid black;
+}
+.line {
+  width: 20px;
+  height: 2px;
+  background-color: #d0d0d0;
+  float: left;
+  margin: 15px 10px;
+  cursor: pointer;
+}
+.text36 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 18px;
+  padding-top: 10px;
+  color: #d0d0d0;
+}
+/* Footer Section */
+.orange {
+  background-color: #9f785c;
+}
+.text25 {
+  width: 100%;
+  /* height: 100%; */
+  /* background-color: #000; */
+}
+#mrgn {
+  margin-top: 50px;
+}
+.list6 {
+  list-style: none;
+  padding: 20px 30px;
+}
+.list10 {
+  display: none;
+}
+.link2 {
+  text-decoration: none;
+  color: #000;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+.link3 {
+  text-decoration: none;
+  color: #212121;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.list7 {
+  list-style: none;
+  padding: 10px;
+}
+.list8 {
+  margin-top: 20px;
+}
+.link2:hover {
+  color: #fff;
+}
+/* .list9 {
+  margin-top: 15px;
+} */
+.text26 {
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  margin: 20px;
+}
+.text27 {
+  text-transform: uppercase;
+  padding: 0px 20px;
+  padding-top: 30px;
+  color: #9f785c;
+}
+.text28 {
+  padding: 10px 20px;
+  color: #9f785c;
+}
+.search1 {
+  width: 88%;
+  height: 30px;
+  margin: auto;
+  border-bottom: 1px solid #9f785c;
+}
+.text29 {
+  width: 100%;
+  height: 100%;
+}
+.input1 {
+  width: 85%;
+  height: 100%;
+  padding-bottom: 10px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: #9f785c;
+}
+.text30 {
+  text-transform: uppercase;
+  padding: 10px 20px;
+  margin-top: 25px;
+  color: #9f785c;
+}
+.icon {
+  color: #9f785c;
+  font-size: 25px;
+  margin-left: 20px;
+  color: #9f785c;
+  padding-bottom: 20px;
+}
+.row3 {
+  width: 100%;
+  height: 50px;
+}
+.ftext {
+  width: 100%;
+  height: 50px;
+  background-color: #9f785c;
+}
+.center3 {
+  width: 80%;
+  margin: auto;
+}
+.link4 {
+  text-transform: uppercase;
+  font-size: 15px;
+  text-decoration: none;
+  margin: 25px;
+  color: #d8a58a;
+}
+.icon2 {
+  color: #9f785c;
+}
+#icon4 {
+  display: none;
+}
+/* Motorcycle Page */
+/* Section Nine */
+#section9 {
+  background-color: #242323;
+}
+.text38 {
+  width: 100%;
+  height: 25%;
+}
+.text39 {
+  text-transform: uppercase;
+  text-align: center;
+  padding: 20px 0px;
+  color: #d0d0d0;
+}
+.text40 {
+  color: #808080;
+  text-align: center;
+}
+.row10 {
+  height: inherit;
+  display: flex;
+}
+.box1 {
+  width: 100%;
+  height: inherit;
+  background-color: #242323;
+  margin: 10px;
+}
+.img11 {
+  height: 30%;
+  background-color: #242323;
+}
+.text41 {
+  width: 100%;
+  height: 60%;
+  background-color: #242323;
+}
+.text41.showContent p {
+  height: auto;
+}
+.img12_2 {
+  width: 100%;
+  transition: 1s;
+}
+.img12_2:hover {
+  transform: scale(1.1);
+}
+.img12 {
+  width: 100%;
+  transition: 1s;
+}
+.img12:hover {
+  transform: scale(1.1);
+}
+.img13 {
+  width: 100px;
+  margin: 20px 0px 20px 115px;
+}
+.text50 {
+  text-align: center;
+  margin-top: 10px;
+  color: #bdbcbc;
+}
+.fa-angle-down {
+  padding-left: 10px;
+}
+.bt10 {
+  width: 90%;
+  border: 1px solid #fff;
+  text-transform: uppercase;
+  padding: 10px;
+  color: #fff;
+}
+.bt11 {
+  margin-top: 30px;
+}
+.bt12 {
+  margin-top: 33px;
+}
+.bt13 {
+  margin-top: 18px;
+}
+.bt14 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.bt15 {
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+.bt16 {
+  margin-top: 21px;
+}
+.bt17 {
+  margin-top: 25px;
+}
+.bt18 {
+  margin-top: 42px;
+}
+.sline {
+  width: 50%;
+  height: 5px;
+  background-color: #fff;
+  margin: 38px 15px;
+}
+#radio2 {
+  width: 30px;
+}
+#link6 {
+  margin-left: -90px !important;
+}
+.icon6 {
+  margin-left: 170px;
+}
+/* Booking Page */
+.row3 {
+  width: 100%;
+  height: 30%;
+}
+.row4 {
+  width: 100%;
+  height: 70%;
+}
+.text42 {
+  color: lightgray;
+  text-align: center;
+  padding-top: 25px;
+}
+.text43 {
+  color: gray;
+  text-align: center;
+  padding-top: 10px;
+}
+.text44 {
+  width: 100%;
+  height: 80px;
+}
+.center4 {
+  width: 50%;
+  height: 100%;
+  margin: auto;
+}
+.box2 {
+  height: 100%;
+  margin-left: 40px;
+  /* background-color: #d3d3d3; */
+}
+.img14 {
+  width: 100%;
+  height: 60%;
+  /* background-color: #242323; */
+}
+.text45 {
+  width: 100%;
+  height: 40%;
+  /* background-color: #242323; */
+}
+.img16 {
+  width: 300px;
+  transition: 1s;
+}
+.img16:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.img17 {
+  width: 100px;
+  margin-left: 100px;
+}
+.btn10 {
+  width: 200px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  margin: auto;
+  border: 1px solid #d3d3d3;
+  cursor: pointer;
+  color: #d3d3d3;
+}
+.bt11 {
+  margin-top: 30px;
+}
+.bt12 {
+  margin-top: 77px;
+}
+.bt13 {
+  margin-top: 18px;
+}
+.bt14 {
+  margin-top: 10px;
+  margin-bottom: 7px;
+}
+.bt15 {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.bt16 {
+  margin-top: 31px;
+}
+.bt19 {
+  margin-top: 28px;
+  margin-bottom: 10px;
+}
+.bt20 {
+  margin-top: 60px;
+}
+.bt22 {
+  margin-top: 60px;
+}
+.text46 {
+  width: 100%;
+  color: #fff;
+  text-transform: uppercase;
+  margin-left: 100px;
+}
+.sline {
+  width: 50%;
+  height: 5px;
+  background-color: #fff;
+  margin: 38px 15px;
+}
+#radio2 {
+  width: 30px;
+}
+.icon5 {
+  margin-left: 10px;
+}
+/* Find a dealer page */
+/* Section twelve */
+.section12 {
+  width: 100%;
+  height: 50vh;
+  background-color: #242323;
+  background-image: url(image/dealers-banner-110721.jpg);
+  background-size: cover;
+  color: #fff;
+}
+/* Section Thirteen */
+#section13 {
+  width: 100%;
+  height: 20vh;
+  background-color: #242323;
+  position: sticky;
+  top: 70px;
+}
+/* Section Fourteen */
+.section14 {
+  width: 100%;
+  /* height: 150vh; */
+  background-color: #242323;
+  padding-bottom: 50px;
+}
+.text47 {
+  width: 100%;
+  height: 100%;
+}
+.text48 {
+  color: #fff;
+  text-transform: uppercase;
+  padding-top: 30px;
+}
+.find_car {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.box3 {
+  width: 100%;
+  height: 100%;
+  background-color: #242323;
+}
+#select1 {
+  width: 90%;
+  height: 50%;
+  margin-top: 50px;
+  opacity: none;
+  background: #242323;
+  border: none;
+  border-bottom: 1px solid gray;
+  color: #fff;
+}
+#bt21 {
+  margin-left: 10px;
+}
+.btn15 {
+  width: 100%;
+  height: 40%;
+  margin-top: 50px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  background: none;
+  text-transform: uppercase;
+  color: #fff;
+  cursor: pointer;
+}
+.details {
+  width: 100%;
+  height: 100%;
+  background-color: #242323;
+}
+.map {
+  width: 100%;
+  height: 100%;
+  background-color: #242323;
+  position: sticky;
+  top: 200px;
+}
+.map1 {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #000;
+}
+.parainfo {
+  width: 90%;
+  list-style: none;
+  border-bottom: 1px solid gray;
+  color: gray;
+  margin-top: 20px;
+}
+.btn16 {
+  background-color: #151515;
+  padding: 5px;
+  color: #fff;
+  margin-left: 200px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  background: none;
+  border: none;
+}
+.fa-location-dot {
+  padding: 5px;
+}
+.p1 {
+  padding-bottom: 10px;
+  color: #c6d0d0;
+}
+.map1 {
+  width: 100%;
+  height: 450px;
+  position: sticky;
+  top: 200px;
+}
+/* Kommuniti Page */
+/* Section Fifteen */
+.text48 {
+  text-align: center;
+  color: #808080;
+}
+.text49 {
+  width: 42%;
+  margin: auto;
+  padding-top: 10px;
+  color: #808080;
+  text-align: center;
+}
+.box4 {
+  width: 90%;
+  height: 60vh;
+  background-color: #151515;
+  margin: 0px 30px;
+}
+.box5 {
+  width: 100%;
+  height: 90%;
+  /* background-color: #808080; */
+}
+.img21 {
+  background-image: url(image/kogo-trails-banner.jpeg);
+  background-size: cover;
+}
+.img22 {
+  background-image: url(image/nomads-banner.jpg);
+  background-size: cover;
+}
+.img23 {
+  background-image: url(image/ijyd2019-banner.jpg);
+  background-size: cover;
+}
+.img24 {
+  background-image: url(image/ijyd2020-banner.png);
+  background-size: cover;
+  background-position: center;
+}
+.img25 {
+  background-image: url(image/jawa-yezdi-clubs-banner.jpg);
+  background-size: cover;
+}
+.img26 {
+  background-image: url(image/mechanic.jpg);
+  background-size: cover;
+}
+.text51 {
+  width: 100%;
+  height: 10%;
+}
+.text52 {
+  font-size: 25px;
+  color: #fff;
+  padding-top: 5px;
+  text-transform: uppercase;
+}
+.text53 {
+  font-size: 23px;
+}
+/* Jawa Yezdi Nomads Page */
+#navleft {
+  margin-left: 300px;
+}
+#yello {
+  background: #ffff00;
+  cursor: pointer;
+}
+/* Section Seventeen */
+.timer {
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.watch {
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(image/lexider_mis_bg1.png);
+  background-size: cover;
+}
+.timer_two {
+  width: 80%;
+  height: 70%;
+  background-color: #000;
+  padding-bottom: 50px;
+}
+.watch_two {
+  width: 80%;
+  height: 70%;
+  /* background-color: #000; */
+  display: flex;
+}
+.text54 {
+  color: #808080;
+  font-size: 20px;
+}
+.text55 {
+  color: yellow;
+  font-size: 15px;
+}
+.text56 {
+  color: #808080;
+  font-size: 15px;
+}
+.img28 {
+  width: 15px;
+}
+.video_two {
+  width: 50%;
+  height: 100%;
+  /* background-color: #151515; */
+}
+.text57 {
+  width: 50%;
+  height: 100%;
+  /* background-color: #151515; */
+}
+.jawav {
+  width: 100%;
+  height: 100%;
+}
+.text58 {
+  font-size: 25px;
+}
+.text59 {
+  font-size: 15px;
+  color: #808080;
+}
+.text58_one {
+  display: none;
+}
+.text59_one {
+  display: none;
+}
+#darkgray {
+  background-color: #1a1a1a;
+}
+#white {
+  background-color: #fff;
+}
+.text62 {
+  width: 100%;
+  height: 100%;
+}
+.text63 {
+  font-size: 21px;
+  margin-left: 20px;
+  letter-spacing: 1px;
+}
+.text64 {
+  margin-top: 80px;
+  margin-left: 20px;
+}
+.img30 {
+  width: 265px;
+  margin: 80px 0;
+}
+.text65 {
+  font-size: 18px;
+  margin-top: 50px;
+  margin-left: 55px;
+}
+.text66 {
+  font-size: 18px;
+  margin-top: 10px;
+  margin-left: 55px;
+  margin-bottom: 10px;
+}
+.text67 {
+  font-size: 18px;
+  margin-left: 55px;
+}
+#inp1 {
+  width: 385px;
+  height: 30px;
+  padding: 20px;
+  margin-top: 10px;
+  margin-left: 55px;
+  margin-bottom: 10px;
+}
+#inp2 {
+  margin-top: 10px;
+  margin-left: 55px;
+  margin-right: 10px;
+}
+.link5 {
+  text-decoration: none;
+  color: blue;
+}
+.btn17 {
+  width: 150px;
+  height: 30px;
+  background-color: yellow;
+  margin-left: 55px;
+  margin-top: 30px;
+  border: none;
+  text-transform: uppercase;
+}
+.text68 {
+  width: 100%;
+  height: 30%;
+  /* background-color: #242323; */
+}
+.text69 {
+  color: #fff;
+  font-size: 50px;
+}
+#lightgray {
+  background-color: #242323;
+}
+.box7 {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}
+/* .box7:hover {
+  background-color: #131313;
+} */
+.img32 {
+  width: 100%;
+  height: 30%;
+  /* background-color: #242323; */
+}
+.text70 {
+  width: 100%;
+  height: 20%;
+  /* background-color: #242323; */
+}
+.text71 {
+  width: 100%;
+  height: 50%;
+  /* background-color: #242323; */
+}
+/* .img33 {
+  margin-left: 60px;
+} */
+.text72 {
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+}
+.text72:hover {
+  color: #ffff00;
+}
+.text73 {
+  font-size: 19px;
+  text-align: center;
+  color: #787878;
+}
+/* Test Rider Page */
+/* offcanvas */
+.offcanvas-title {
+  color: #fff;
+  text-transform: uppercase;
+}
+.text84 {
+  font-size: 15px;
+  color: gray;
+  width: 90%;
+  margin: 10px 0px;
+}
+#bikes {
+  width: 90%;
+  background: none;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #2f2e2e;
+  color: #fff;
+  padding-bottom: 10px;
+}
+#bikes option {
+  background: #212121;
+  color: #fff;
+}
+.text85 {
+  padding-top: 50px;
+}
+.input3 {
+  width: 30px;
+  margin-left: 30px;
+}
+.details2 {
+  width: 90%;
+  background: none;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #2f2e2e;
+  color: #fff;
+  padding-bottom: 10px;
+  margin: 30px 0px;
+}

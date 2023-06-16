@@ -1,0 +1,380 @@
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  /* Section Two */
+  .two {
+    height: 70vh;
+  }
+  /* Section Three */
+  .img2 {
+    width: 100%;
+    height: 100%;
+    background-color: brown;
+  }
+  .img3 {
+    width: 100%;
+    height: 100%;
+    background-color: #2f2e2e;
+  }
+  .img4 {
+    width: 100%;
+    height: 100%;
+    background-color: #d3d3d3;
+  }
+  .text5 {
+    color: #fff;
+    font-size: 25px;
+  }
+  .img7 {
+    width: 80%;
+    height: 50px;
+    height: 230px;
+    margin-left: 40px;
+  }
+  .text80 {
+    text-transform: uppercase;
+    color: gray;
+    margin-left: 20px;
+  }
+  .text81 {
+    color: #fff;
+  }
+  .text82 {
+    color: gray;
+  }
+  .text83 {
+    color: black;
+    font-size: 20px;
+  }
+  /* Section Four */
+  #jawarig {
+    width: 100%;
+    background-color: gray;
+    background-image: url(image/gear-section.jpg);
+    background-size: cover;
+  }
+  .text6 {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .text7 {
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .btn1 {
+    height: 50px;
+    margin-top: 170px;
+  }
+  .btn2 {
+    width: auto;
+    height: inherit;
+    color: white;
+    font-size: 18px;
+    border: 5px solid #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  /* Section Five */
+  .three {
+    display: none;
+  }
+  #kummuniti {
+    background-color: #2f2e2e;
+    background-image: url(/image/kommuniti-bg.jpg);
+    background-size: cover;
+  }
+  .text13 {
+    color: #fff;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .text14 {
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+  }
+  .text14_one {
+    display: none;
+  }
+  .btn6 {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+  }
+  .btn7 {
+    width: auto;
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color: #fff;
+    border: 3px solid #fff;
+    margin-bottom: 100px;
+  }
+  .text15 {
+    text-align: center;
+    color: #fff;
+  }
+  /* Footer Section */
+  .footer {
+    height: inherit;
+    padding-bottom: 20px;
+  }
+  .inline {
+    display: block;
+  }
+  .text25 {
+    width: 100%;
+    height: inherit;
+  }
+  .list6 {
+    display: none;
+  }
+  .list7 {
+    display: none;
+  }
+  .list10 {
+    width: 90%;
+    display: block;
+    list-style: none;
+    padding: 20px 30px;
+    border-bottom: 1px solid brown;
+  }
+  .link2 {
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    text-transform: uppercase;
+  }
+  .text26 {
+    width: 90%;
+    padding-bottom: 10px;
+  }
+  .list_one {
+    width: 100%;
+  }
+  .list_two {
+    display: none;
+  }
+  #icon4 {
+    display: block;
+    display: inline;
+    padding-left: 10px;
+  }
+  .ftext {
+    display: none;
+  }
+  /* Motorcycle Page */
+  .section9 {
+    height: inherit;
+  }
+  .center2 {
+    width: 80%;
+  }
+  .row10 {
+    display: block;
+  }
+  .box1 {
+    width: 80%;
+    margin: 0px;
+    margin-left: 28px;
+  }
+  .img12_2 {
+    margin-top: 125px;
+  }
+  .img13 {
+    width: 100px;
+    margin: 15px 65px;
+  }
+  .bt10 {
+    margin-left: 14px;
+    text-align: center;
+  }
+  .img11 img {
+    margin-top: 20px;
+  }
+  .pd {
+    padding-bottom: 15px;
+  }
+  /* Booking Page */
+  .section11 {
+    width: 100%;
+    height: 100vh;
+    background-color: #2f2e2e;
+  }
+  .row3 {
+    width: 100%;
+    height: 30%;
+  }
+  .row4 {
+    width: 100%;
+    height: 70%;
+  }
+  .text42 {
+    color: lightgray;
+    text-align: center;
+    padding-top: 25px;
+  }
+  .text43 {
+    color: gray;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .text44 {
+    width: 100%;
+    height: 80px;
+  }
+  .center4 {
+    width: 50%;
+    height: 100%;
+    margin: auto;
+  }
+  .row6 {
+    width: 100%;
+    height: 70%;
+    display: flex;
+  }
+  .box2 {
+    margin: auto;
+    width: 30%;
+    height: 100%;
+    margin-left: 120px;
+    /* background-color: #d3d3d3; */
+  }
+  .img14 {
+    width: 100%;
+    height: 60%;
+    /* background-color: #242323; */
+  }
+  .text45 {
+    width: 100%;
+    height: 40%;
+    /* background-color: #242323; */
+  }
+  .img16 {
+    width: 300px;
+  }
+  .img16:hover {
+    width: 315px;
+    cursor: pointer;
+  }
+  .img17 {
+    width: 100px;
+    margin-left: 100px;
+  }
+  .img20 {
+    margin-top: 10px;
+  }
+  .btn10 {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    margin: auto;
+    border: 1px solid #d3d3d3;
+    cursor: pointer;
+  }
+  .bt11 {
+    margin-top: 91px;
+  }
+  .bt12 {
+    margin-top: 33px;
+  }
+  .bt13 {
+   margin-top: 18px; 
+  }
+  .bt14 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .bt15 {
+    margin-top: 25px;
+    margin-bottom: 20px;
+  } 
+  .bt16 {
+    margin-top: 31px;
+  }
+  .text46 {
+    width: 100%;
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-left: 100px;
+  }
+  .sline {
+    width: 50%;
+    height: 5px;
+    background-color: #fff;
+    margin: 38px 15px;
+  }
+  #radio2 {
+    width: 30px;
+  }
+  /* Section Twenty-One */
+  .box7 {
+    width: 100%;
+    height: 100%;
+    /* background-color: #151515; */
+    /* border: 1px solid black; */
+    padding: 20px;
+  }
+  .box7:hover {
+    background-color: #131313;
+  }
+  .img32 {
+    width: 100%;
+    height: 30%;
+    /* background-color: #242323; */
+  }
+  .text70 {
+    width: 100%;
+    height: 20%;
+    /* background-color: #242323; */
+  }
+  .text71 {
+    width: 100%;
+    height: 50%;
+    /* background-color: #242323; */
+  }
+  /* .img33 {
+    margin-left: 263px;
+  } */
+  .text72 {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  .text72:hover {
+    color: #ffff00;
+  }
+  .text73 {
+    font-size: 20px;
+    text-align: center;
+    color: #787878;
+  }
+  .img34 {
+    width: 100%;
+    height: 48%;
+    background-color: #131313;
+  }
+  .text77 {
+    padding: 5px 8px;
+    font-size: 20px;
+  }
+  .text78 {
+    padding: 10px 35px;
+  }
+}
