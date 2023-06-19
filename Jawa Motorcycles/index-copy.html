@@ -23,16 +23,21 @@
 
     <!-- Font Awesome CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"/>
+
+   <!-- Favicon -->
+   <link rel="shortcut icon" href="image/logo.PNG" type="image/x-icon">
+
+
   </head>
 
-  <body>
+  <body> 
     <!-- Header -->
-    <header id="header">
+    <header id="header" class="sticky-top">
       <div class="container-fluid" id="main">
         <div class="container">
           <!-- Navigation -->
-          <nav class="navbar navbar-expand-lg" id="stick">
-            <div class="container-fluid sticky-top">
+          <nav class="navbar navbar-expand-lg " >
+            <div class="container-fluid ">
               <a class="navbar-brand pe-4 fs-6" href="#">
                 <img class="logo" src="image/jawa-logo-white.svg " alt="" srcset=""/>
               </a>
@@ -56,7 +61,7 @@
                     <a class="nav-link text-uppercase text-white" aria-current="page" href="dealers.html">dealers</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link text-uppercase text-white" aria-current="page" href="#">test rider</a>
+                    <a class="nav-link text-uppercase text-white" aria-current="page" data-bs-toggle="offcanvas" data-bs-target="#demo" href="#">test rider</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link text-uppercase text-white" aria-current="page" href="booking.html">book online</a>
@@ -511,15 +516,71 @@
       </div>
     </footer>
 
+    <!-- offcanvas for navbar test rider link -->
+    <div class="offcanvas offcanvas-end bg-dark text-white" id="demo">
+      <div class="offcanvas-header">
+        <h1 class="offcanvas-title">book test ride</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+      </div>
+      <div class="offcanvas-body">
+        <label for="bikes" class="text84">Select Model</label>
+        <select name="bikes" id="bikes">
+          <option value="select model">Select Model</option>
+          <option value="42 Bobber">42 Bobber</option>
+          <option value="42">42</option>
+          <option value="forty">Forty Two</option>
+          <option value="perak">Perak</option>
+          <option value="jawa">Jawa</option>
+          <option value="jawa the brave">Jawa The Brave & The bold</option>
+        </select>
+        <label for="bikes" class="text84">Select State</label>
+        <select name="bikes" id="bikes">
+          <option value="select model">Select Model</option>
+          <option value="">Andhra Pradesh</option>
+          <option value="">Arunachal Pradesh</option>
+          <option value="">Assam</option>
+          <option value="">Bihar</option>
+          <option value="">Chandigarh</option>
+          <option value="">Chhattisgarh</option>
+          <option value="">Delhi</option>
+          <option value="">Goa</option>
+          <option value="">Gujarat</option>
+          <option value="">Haryana</option>
+          <option value="">Himanchal Pradesh</option>
+          <option value="">Jammu and Kashmir</option>
+          <option value="">Jharkhand</option>
+          <option value="">Karnatka</option>
+          <option value="">Ladakh</option>
+          <option value="">Madhya Pradesh</option>
+          <option value="">Maharashtra</option>
+          <option value="">Manipur</option>
+          <option value="">Miroram</option>
+          <option value="">Nagaland</option>
+          <option value="">Odisha</option>
+        </select>
+        
+        <p class="text85">Where You want to have Your Test Ride</p>
+        <input type="radio" name="place" class="input2" >Home
+        <input type="radio" name="place" class="input3" >Office
+        <input type="radio" name="place" class="input3" >Dealership
+
+        <input class="details2" type="text" value="Enter Full Name">
+        <input class="details2" type="tel" value="Mobile Number">
+        <input class="details2" type="email" value="Enter Email">
+        <input class="details2" type="text" value="Address">
+
+        <button class="btn btn-dark text-uppercase border-white border-2 w-75 ms-5">book test ride</button>
+      </div>
+    </div>
+
     <!-- Bootstrap JavaScript Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js" integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous"></script>
-    
+
     <!-- JQuery Libraries-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
+  
     <!-- Custom JavaScript File -->
     <script src="script.js"></script>
-  
   </body>
 </html>
